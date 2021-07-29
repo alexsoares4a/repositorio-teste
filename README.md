@@ -1,2 +1,2 @@
 # repositorio-teste
-Repositório para teste do github
+Esse repositório será usado para testes com o github. :-)
